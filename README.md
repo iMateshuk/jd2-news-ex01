@@ -1,1 +1,1 @@
-# jd2-news-ex01-
+# jd2-news-ex01
